@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571619768450",
+    "project_id": "fir-bf55d",
+    "storage_bucket": "fir-bf55d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571619768450:android:deac4a886aa199ce2fdc9b",
+        "android_client_info": {
+          "package_name": "ec.edu.puce.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571619768450-b3s0jqovum40s66tt20kc52ni8e6igsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFUNkIcn1YJ9cutitvQJJKttPfLl0r2jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571619768450-b3s0jqovum40s66tt20kc52ni8e6igsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase</string>
+
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_signin">Registrarse</string>
+
+    <string name="txt_mail">Correo Electrónico</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="txt_password_confirm">Confirmar Contraseña</string>
+
+
+
+</resources>
